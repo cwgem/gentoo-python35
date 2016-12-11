@@ -211,7 +211,6 @@ dev-python/pycxx:0
 dev-python/pydispatcher:0
 dev-python/pydns:3
 dev-python/pyev:0
-dev-python/pyftpdlib:0
 dev-python/pygame_sdl2:0
 dev-python/pygeocoder:0
 dev-python/pyglet:0
@@ -263,7 +262,6 @@ dev-python/queuelib:0
 dev-python/radon:0
 dev-python/ramlfications:0
 dev-python/recaptcha-client:0
-dev-python/rencode:0
 dev-python/repoze-sphinx-autointerface:0
 dev-python/responses:0
 dev-python/roman:0

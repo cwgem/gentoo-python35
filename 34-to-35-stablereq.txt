@@ -110,6 +110,7 @@ dev-python/pyasn1-modules:0
 dev-python/pycairo:0
 dev-python/pycrypto:0
 dev-python/pyelftools:0
+dev-python/pyftpdlib:0
 dev-python/pyjwt:0
 dev-python/pylast:0
 dev-python/pylint:0
@@ -128,6 +129,7 @@ dev-python/pyudev:0
 dev-python/pyx:0
 dev-python/pyzmq:0
 dev-python/rdflib:0
+dev-python/rencode:0
 dev-python/reportlab:0
 dev-python/requests-cache:0
 dev-python/requests-oauthlib:0
