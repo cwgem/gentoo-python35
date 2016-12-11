@@ -8,8 +8,8 @@ Testing is mainly done by setting a `/etc/portage/repos.conf/` file like so:
 [DEFAULT]
 main-repo = gentoo
 
-[gentoo-python]
-location = /[path-to-checked-out-git-repo]/gentoo-python
+[gentoo-python35]
+location = /[path-to-checked-out-git-repo]/gentoo-python35
 ```
 
 `/etc/portage/make.conf` will need to be updated with the proper python targets:
