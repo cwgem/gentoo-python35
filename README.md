@@ -25,3 +25,6 @@ For work on stable, the python 3.5 flag will need to be unmasked
 # mkdir /etc/portage/profile
 # echo '-python_targets_python3_5' >> /etc/portage/profile/use.mask
 ```
+
+Reports are included as text files for stabilization efforts. The README.md file
+in the scripts directory has more information
