@@ -5,8 +5,9 @@ from portage.dep import extract_affecting_use
 import os
 import re
 
-class Resolver:
+class Resolver(object):
   def __init__(self,arch):
+    __slots__ = ('portdb_stable', 'portdb_unstable', 'matching_packages', '__cur_visibles','__pydep_regex')
     # portage API doesn't seem to have an easy way to switch
     # keywords between looks so this simply creates both
     # a stable and unstable tree that can be referenced back
